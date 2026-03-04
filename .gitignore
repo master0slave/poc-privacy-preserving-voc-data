@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# MacOS Finder
+.DS_Store
+# Thumbnails
+._*
+# Python bytecode cache
+*.pyc
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# PyCharm project files
+.idea/
+# VS Code workspace settings
+.vscode/
+# Local configuration files
+*.local
+# Logs
+*.log
+
+# Data files
+data/raw/
+data/processed/
+
+# Gradio app files
+gradio_app/
+*.gradio/
